@@ -1,0 +1,25 @@
+body {
+  background-color: #e92326
+}
+h1{
+  color: #ffffff;
+}
+/* unvisited link */
+a:link {
+    color: blue;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: yellow;
+}
