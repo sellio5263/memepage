@@ -6,20 +6,20 @@ h1{
 }
 /* unvisited link */
 a:link {
-    color: blue;
+  color: blue;
 }
 
 /* visited link */
 a:visited {
-    color: green;
+  color: green;
 }
 
 /* mouse over link */
 a:hover {
-    color: hotpink;
+  color: hotpink;
 }
 
 /* selected link */
 a:active {
-    color: yellow;
+  color: yellow;
 }
